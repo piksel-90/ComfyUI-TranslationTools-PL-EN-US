@@ -1,0 +1,3 @@
+Umieść tutaj pobrany wcześniej model PL -> EN (plik *.argosmodel), np.
+translate-pl_en-1_9.argosmodel
+Nie rozpakowuj ręcznie — dodatek zrobi to lokalnie przy pierwszym tłumaczeniu.
