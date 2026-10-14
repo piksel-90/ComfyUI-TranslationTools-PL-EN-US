@@ -1,0 +1,2 @@
+# Install only from local wheels if the machine has no internet access.
+argostranslate>=1.10,<2
